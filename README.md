@@ -1,5 +1,5 @@
-==========
-   PHANTOM CLICKER v1.0 (Official) ==========
+=======
+   PHANTOM CLICKER v1.0 (Official) =======
 ========
 Description:
 Phantom Clicker is a high-performance automation tool 
